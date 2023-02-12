@@ -1,4 +1,4 @@
-<h1 align="center">Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, i'm <span style="color:#BF91F3;">Adi Narayana Reddy</span></h1>
+<h1 align="center">Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, This is <span style="color:#BF91F3;">Adi Narayana Reddy</span></h1>
 
 Front End Developer (React JS)
 ------------------------------
