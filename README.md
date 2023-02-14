@@ -1,7 +1,8 @@
+<p align="center"><a href="https://github.com/adi-4444"><img align="center" src="./github-header-image.png" alt="adi-4444"/></a></p>
 <h1 align="center">Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, This is <span style="color:#BF91F3;">Adi Narayana Reddy</span></h1>
 
-Front End Developer (React JS)
-------------------------------
+<p align="center">Front End Developer (React JS)</p>
+<p align="center">------------------------------</p>
 
 A passionate front end developer with a focus on building beautiful and intuitive web applications. Constantly exploring new ways to push the limits of what is possible in web development and also always looking for new opportunities to grow as a developer . if looking for a dedicated and skilled React Developer , i would love to hear from you.
 
